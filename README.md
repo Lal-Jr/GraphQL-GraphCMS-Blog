@@ -35,7 +35,9 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 <!-- Add a demo for your project -->
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Random GIF" />
+</p>
 
 # Table of contents
 
@@ -45,9 +47,6 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 - [License](#license)
 - [Footer](#footer)
 
@@ -64,10 +63,10 @@ A method I use is after completing the README, I go through the instructions fro
 
 To use this project, first clone the repo on your device using the command below:
 
-```git init```
-
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` 
-
+```bash
+git init
+git clone https://github.com/navendu-pottekkat/nsfw-filter.git
+```
 
 # Usage
 [(Back to top)](#table-of-contents)
@@ -84,24 +83,6 @@ You could give **instructions in depth** of **how the code works** and how every
 You could also give specific instructions to how they can setup their development environment.
 
 Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
-
-# Contribute
-[(Back to top)](#table-of-contents)
-
-<!-- This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
-
-Also this shows how you can add subsections within a section. -->
-
-### Adding new features or fixing bugs
-[(Back to top)](#table-of-contents)
-
-<!-- This is to give people an idea how they can raise issues or feature requests in your projects. 
-
-You could also give guidelines for submitting and issue or a pull request to your project.
-
-Personally and by standard, you should use a [issue template](https://github.com/navendu-pottekkat/nsfw-filter/blob/master/ISSUE_TEMPLATE.md) and a [pull request template](https://github.com/navendu-pottekkat/nsfw-filter/blob/master/PULL_REQ_TEMPLATE.md)(click for examples) so that when a user opens a new issue they could easily format it as per your project guidelines.
-
-You could also add contact details for people to get in touch with you regarding your project. -->
 
 # License
 [(Back to top)](#table-of-contents)
