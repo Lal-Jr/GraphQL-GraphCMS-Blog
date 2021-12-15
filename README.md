@@ -3,19 +3,17 @@
   <br />
   <br />
   GraphQL-GraphCMS-Blog
-</h1>
-
-<div align="center">
+  <br />
   
-[![Lal-Jr - GraphQL-GraphCMS-Blog](https://img.shields.io/static/v1?label=Lal-Jr&message=GraphQL-GraphCMS-Blog&color=blue&logo=github)](https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog "Go to GitHub repo")
+  [![Lal-Jr - GraphQL-GraphCMS-Blog](https://img.shields.io/static/v1?label=Lal-Jr&message=GraphQL-GraphCMS-Blog&color=blue&logo=github)](https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog "Go to GitHub repo")
 [![stars - GraphQL-GraphCMS-Blog](https://img.shields.io/github/stars/Lal-Jr/GraphQL-GraphCMS-Blog?style=social)](https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog)
 [![forks - GraphQL-GraphCMS-Blog](https://img.shields.io/github/forks/Lal-Jr/GraphQL-GraphCMS-Blog?style=social)](https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lal-Jr/GraphQL-GraphCMS-Blog?style=social)
   
-</div>
-<br />
-<!-- Describe your project in brief -->
+</h1>
+
+Simple Blog Site for adding blog posts with NextJS for Frontend and GraphCMS which is a Headless CMS is used for Content Management along with GraphQL for fetching data.
 
 # Preview
 
