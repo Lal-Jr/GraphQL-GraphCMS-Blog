@@ -39,7 +39,7 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 <!-- Add a demo for your project -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Random GIF" />
+  <img src="https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog/blob/1bb354aa4de12190c4b06eca4f0eeb009c66ef97/public/Demo.gif" alt="Random GIF" />
 </p>
 
 # Table of contents
