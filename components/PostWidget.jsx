@@ -5,7 +5,7 @@ import Link from "next/link";
 import { getRecentPosts, getSimilarPosts } from "../services";
 
 const PostWidget = ({ categories, slug }) => {
-	const [relatedPosts, setRelatedPosts] = useState();
+	const [relatedPosts, setRelatedPosts] = useState([]);
 
 	useEffect(() => {
 		if (slug) {
@@ -32,7 +32,7 @@ const PostWidget = ({ categories, slug }) => {
 							height="60px"
 							width="60px"
 							className="align-middle rounded-full"
-							src={post.feautedImage.url}
+							src={post.featuredImage.url}
 						/>
 					</div>
 					<div className="flex-grow ml-4">
