@@ -1,6 +1,6 @@
 <!-- Add banner here-->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69763020/146115803-4b45f452-a9fc-4198-967c-8642b74b0ac2.png" alt="Banner" />
+  <img src="https://user-images.githubusercontent.com/69763020/146116589-f2e97500-9f7d-4132-9a93-1354cc8dbaeb.png" alt="Banner" />
 </p>
 
 # GraphQL-GraphCMS-Blog
