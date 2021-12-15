@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" id="graphql-graphcms-blog">
   <img src="https://user-images.githubusercontent.com/69763020/146116589-f2e97500-9f7d-4132-9a93-1354cc8dbaeb.png" alt="Banner" />
   <br />
   <br />
