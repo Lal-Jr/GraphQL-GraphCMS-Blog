@@ -44,9 +44,6 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 # Table of contents
 
-- [GraphQL-GraphCMS-Blog](#graphql-graphcms-blog)
-- [Demo-Preview](#demo-preview)
-- [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
@@ -54,7 +51,6 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 - [Footer](#footer)
 
 # Installation
-[(Back to top)](#table-of-contents)
 
 <!--The first one should be how to install(how to generally use your project or set-up for editing in their machine).
 
@@ -71,13 +67,15 @@ git init
 git clone https://github.com/navendu-pottekkat/nsfw-filter.git
 ```
 
-# Usage
 [(Back to top)](#table-of-contents)
+
+# Usage
 
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
-# Development
 [(Back to top)](#table-of-contents)
+
+# Development
 
 <!-- This is the place where you give instructions to developers on how to modify the code.
 
@@ -86,6 +84,8 @@ You could give **instructions in depth** of **how the code works** and how every
 You could also give specific instructions to how they can setup their development environment.
 
 Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
+
+[(Back to top)](#table-of-contents)
 
 # License
 
