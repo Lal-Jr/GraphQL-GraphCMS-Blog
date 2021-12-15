@@ -64,16 +64,15 @@ To use this project, first clone the repo on your device using the command below
 
 ```bash
 git init
-git clone https://github.com/navendu-pottekkat/nsfw-filter.git
+git clone https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog.git
+cd GraphQL-GraphCMS-Blog
+npm install
+npm run dev
 ```
-
-[(Back to top)](#table-of-contents)
 
 # Usage
 
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
-
-[(Back to top)](#table-of-contents)
 
 # Development
 
@@ -84,8 +83,6 @@ You could give **instructions in depth** of **how the code works** and how every
 You could also give specific instructions to how they can setup their development environment.
 
 Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
-
-[(Back to top)](#table-of-contents)
 
 # License
 
