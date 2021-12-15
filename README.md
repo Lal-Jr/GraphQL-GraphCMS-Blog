@@ -1,4 +1,7 @@
 <!-- Add banner here-->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69763020/146115803-4b45f452-a9fc-4198-967c-8642b74b0ac2.png" alt="Banner" />
+</p>
 
 # GraphQL-GraphCMS-Blog
 
