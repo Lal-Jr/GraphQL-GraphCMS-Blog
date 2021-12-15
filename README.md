@@ -23,7 +23,7 @@
   <img src="https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog/blob/1bb354aa4de12190c4b06eca4f0eeb009c66ef97/public/Demo.gif" alt="Random GIF" />
 </p>
 
-[Live Preview](https://portfolio-v2-lilac.vercel.app/)
+[Live Preview](https://graph-ql-graph-cms-blog.vercel.app/)
 
 # Table of contents
 
