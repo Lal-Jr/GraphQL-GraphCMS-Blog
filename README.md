@@ -1,7 +1,6 @@
-# GraphQL-GraphCMS-Blog
 <!-- Add banner here -->
 
-# Project Title
+# GraphQL-GraphCMS-Blog
 
 <!-- Add buttons here -->
 
@@ -44,19 +43,11 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 <!-- Add a demo for your project -->
 
-<!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
-
-Here is a random GIF as a placeholder.
-
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
+![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 # Table of contents
 
-<!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
-
-- [Project Title](#project-title)
+- [GraphQL-GraphCMS-Blog](#graphql-graphcms-blog)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
@@ -71,9 +62,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 # Installation
 [(Back to top)](#table-of-contents)
 
-<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
-
-The first one should be how to install(how to generally use your project or set-up for editing in their machine).
+<!--The first one should be how to install(how to generally use your project or set-up for editing in their machine).
 
 This should give the users a concrete idea with instructions on how they can use your project repo with all the steps.
 
@@ -81,19 +70,12 @@ Following this steps, **they should be able to run this in their device.**
 
 A method I use is after completing the README, I go through the instructions from scratch and check if it is working. -->
 
-<!-- Here is a sample instruction:
-
 To use this project, first clone the repo on your device using the command below:
 
 ```git init```
 
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```-->
 
 # Usage
 [(Back to top)](#table-of-contents)
@@ -117,15 +99,6 @@ Ideally, you should keep the README simple. If you need to add more complex expl
 <!-- This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
 
 Also this shows how you can add subsections within a section. -->
-
-### Sponsor
-[(Back to top)](#table-of-contents)
-
-<!-- Your project is gaining traction and it is being used by thousands of people(***with this README there will be even more***). Now it would be a good time to look for people or organisations to sponsor your project. This could be because you are not generating any revenue from your project and you require money for keeping the project alive.
-
-You could add how people can sponsor your project in this section. Add your patreon or GitHub sponsor link here for easy access.
-
-A good idea is to also display the sponsors with their organisation logos or badges to show them your love!(*Someday I will get a sponsor and I can show my love*) -->
 
 ### Adding new features or fixing bugs
 [(Back to top)](#table-of-contents)
@@ -160,4 +133,4 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 
 <!-- Add the footer here -->
 
-<!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
+![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
