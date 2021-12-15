@@ -88,25 +88,11 @@ You could also give specific instructions to how they can setup their developmen
 Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
 
 # License
+
+[The MIT License](https://opensource.org/licenses/MIT)
+
 [(Back to top)](#table-of-contents)
 
-<!-- Adding the license to README is a good practice so that people can easily refer to it.
+Leave a Star⭐ in GitHub, Fork🍴 if you wanna do the same and Share📤 this repository if you found this helpful.
 
-Make sure you have added a LICENSE file in your project folder. **Shortcut:** Click add new file in your root of your repo in GitHub > Set file name to LICENSE > GitHub shows LICENSE templates > Choose the one that best suits your project!
-
-I personally add the name of the license and provide a link to it like below. -->
-
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
-
-# Footer
-[(Back to top)](#table-of-contents)
-
-<!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
-
-Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
-
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
-
-<!-- Add the footer here -->
-
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
+![Footer](https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog/blob/bce2408b1c96b2ccf125d331a8f774b71f7c95fe/public/Footer.png)
