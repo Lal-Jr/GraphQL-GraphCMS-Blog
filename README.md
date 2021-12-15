@@ -34,13 +34,13 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 ![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html): This is not essential but it is a cool way to let others know about your project! Clicking this button automatically opens twitter and writes a tweet about your project and link to it. All the user has to do is to click tweet. Isn't that neat? -->
 
-# Demo-Preview
-
-<!-- Add a demo for your project -->
+# Preview
 
 <p align="center">
   <img src="https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog/blob/1bb354aa4de12190c4b06eca4f0eeb009c66ef97/public/Demo.gif" alt="Random GIF" />
 </p>
+
+[Live Preview](https://portfolio-v2-lilac.vercel.app/)
 
 # Table of contents
 
@@ -48,7 +48,6 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 - [Usage](#usage)
 - [Development](#development)
 - [License](#license)
-- [Footer](#footer)
 
 # Installation
 
@@ -63,10 +62,16 @@ A method I use is after completing the README, I go through the instructions fro
 To use this project, first clone the repo on your device using the command below:
 
 ```bash
-git init
+# Clone this repository
 git clone https://github.com/Lal-Jr/GraphQL-GraphCMS-Blog.git
+
+# Go into the repository
 cd GraphQL-GraphCMS-Blog
-npm install
+
+# Install dependencies
+npm install 
+
+# Run the project in local host
 npm run dev
 ```
 
