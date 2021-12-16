@@ -13,7 +13,7 @@
   
 </h1>
 
-Simple Blog Site for adding blog posts with NextJS for Frontend and GraphCMS which is a Headless CMS is used for Content Management along with GraphQL for fetching data.
+Simple Blog Site for adding blog posts similar to Medium.com with NextJS a JavaScript Framework by Vercel for Frontend and GraphCMS which is a Headless CMS is used for Content Management along with GraphQL for fetching data from the content management system.
 
 # Preview
 
