@@ -56,7 +56,6 @@ npm run dev
 [The MIT License](https://opensource.org/licenses/MIT)
 
 [(Back to top)](#graphql-graphcms-blog)
-[(Back to table of contents)](#table-of-contents)
 
 Leave a Star⭐ in GitHub, Fork🍴 if you wanna do the same and Share📤 this repository if you found this helpful.
 
